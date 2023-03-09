@@ -7,5 +7,9 @@ while i < 10:
 
      """
 
-for i in lista:
-    print(f"los elementos:{lista} ")
+""" for i in lista:
+    print(f"los elementos:{lista} ") """
+
+
+for i in range(20):
+    print(f"Elemento: {i}")
