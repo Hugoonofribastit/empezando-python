@@ -16,4 +16,4 @@ print(mi_conjunto2)
 mi_conjunto2.remove(2)
 print(mi_conjunto2)
 
-#podemos tambien usae el clear y sacar todo o el pop y pasarle el indice
+#podemos tambien usar el clear y sacar todo o el pop y pasarle el indice
